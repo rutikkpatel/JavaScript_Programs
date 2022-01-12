@@ -1,5 +1,5 @@
 # JavaScript_Programs
-All Programs and files Which are made using JavaScript only
+All Programs and files Which are made using JavaScript
 
 
 ## ✍ Designed By [Rutik Patel](https://rutikkpatel.github.io/Portfolio1/)
