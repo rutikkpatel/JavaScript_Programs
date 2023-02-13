@@ -1,36 +1,25 @@
-*{
-    margin: 0;;
-    padding: 0;
-}
-body{
-    width: 100%;
-	height: 100vh;
-	background: rgba(162, 155, 254,0.5);
-    overflow: hidden; /* Hide scrollbars */
+* {
+  margin: 0;
+  padding: 0;
 }
 
-.container{
-    border-radius: 15px;
-    width: 50%;
+body {
+  background: rgba(162, 155, 254, 0.5) !important;
 }
 
-footer #footer {
-    margin-top: 5px;
-    height: 34px;
-    color: #000000;
-    text-align: center;
-    font-size: 1em;
+.container {
+  border-radius: 15px;
 }
 
 #footer a {
-    text-decoration: none;
-    line-height: 34px;
-    color: #000000;
-    
+  text-decoration: none;
+  line-height: 34px;
+  color: #000000;
+
 }
 
 #footer a:hover {
-    color: red;
-    font-weight: bold;
-    text-decoration: underline;
+  color: red;
+  font-weight: bold;
+  text-decoration: underline;
 }
